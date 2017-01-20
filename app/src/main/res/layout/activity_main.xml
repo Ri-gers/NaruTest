@@ -17,7 +17,7 @@
             android:layout_height="match_parent" />
 
         <TextView
-            android:textColor="#00ff00"
+            android:textColor="#aaaaaa"
             android:textSize="22sp"
             android:padding="3dp"
             android:textStyle="italic"
