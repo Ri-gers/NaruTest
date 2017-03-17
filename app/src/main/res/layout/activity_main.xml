@@ -6,93 +6,77 @@
     android:orientation="vertical"
     tools:context="com.example.rigers.naruto.MainActivity">
 
-    <RelativeLayout android:layout_width="match_parent"
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ImageView
-            android:src="@drawable/shika"
-            android:layout_width="match_parent"
-            android:scaleType="centerCrop"
-            android:layout_height="match_parent" />
-
-        <TextView
+        <Button
+            android:id="@+id/shikaB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/shika"
+            android:fontFamily="sans-serif-light"
+            android:padding="3dp"
+            android:text="Shikamaru"
             android:textColor="#ffffff"
             android:textSize="22sp"
-            android:padding="3dp"
-            android:textStyle="italic"
-            android:fontFamily="sans-serif-light"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentRight="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Shikamaru"/>
+            android:textStyle="italic" />
     </RelativeLayout>
 
-    <RelativeLayout android:layout_width="match_parent"
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
 
-    <ImageView
-        android:src="@drawable/pain"
-        android:layout_width="match_parent"
-        android:scaleType="centerCrop"
-        android:layout_height="match_parent" />
-
-        <TextView
+        <Button
+            android:id="@+id/painB"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/pain"
+            android:fontFamily="sans-serif-light"
+            android:padding="3dp"
+            android:text="Pain"
             android:textColor="#ff6600"
             android:textSize="22sp"
-            android:padding="3dp"
-            android:textStyle="italic"
-            android:fontFamily="sans-serif-light"
-            android:layout_alignParentBottom="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Pain"/>
+            android:textStyle="italic"/>
     </RelativeLayout>
 
-    <RelativeLayout android:layout_width="match_parent"
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ImageView
-            android:src="@drawable/itachi"
-            android:scaleType="centerCrop"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-
-        <TextView
+        <Button
+            android:id="@+id/itachiB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/itachi"
+            android:fontFamily="sans-serif-light"
+            android:padding="3dp"
+            android:text="Itachi"
             android:textColor="#ff0000"
             android:textSize="22sp"
-            android:padding="3dp"
-            android:textStyle="italic"
-            android:fontFamily="sans-serif-light"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentRight="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Itachi"/>
+            android:textStyle="italic" />
     </RelativeLayout>
 
-    <RelativeLayout android:layout_width="match_parent"
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ImageView
-            android:src="@drawable/kakashi"
-            android:scaleType="centerCrop"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-
-        <TextView
-            android:textColor="#00ccff"
-            android:textSize="22sp"
-            android:padding="3dp"
-            android:textStyle="italic"
-            android:fontFamily="sans-serif-light"
-            android:layout_alignParentBottom="true"
+        <Button
+            android:id="@+id/kakashiB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kakashi"/>
+            android:background="@drawable/kakashi"
+            android:fontFamily="sans-serif-light"
+            android:padding="3dp"
+            android:text="Kakashi"
+            android:textColor="#00ccff"
+            android:textSize="22sp"
+            android:textStyle="italic" />
     </RelativeLayout>
 </LinearLayout>
