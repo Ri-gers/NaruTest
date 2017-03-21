@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.rigers.naruto.OpeningsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/shOp1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening1"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening2"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp3"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening3"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp4"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening4"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/shOp5"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening5"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp6"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening6"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp7"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening7"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp8"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening8"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/shOp9"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening9"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp10"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening10"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp11"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening11"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp12"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening12"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/shOp13"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening13"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp14"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening14"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp15"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening15"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp16"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening16"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/shOp17"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening17"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp18"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening18"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp19"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening19"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/shOp20"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="Opening20"
+
+            android:textSize="20sp"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+
+</LinearLayout>
